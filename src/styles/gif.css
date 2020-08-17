@@ -1,0 +1,20 @@
+.gif{
+  border: 2px solid blue;
+  width: 50%;
+  margin: 10px;
+  color: rgb(29, 122, 197);
+  border-radius: 6px;
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
+.gif h4{
+  font-size: 25px;
+  text-transform: uppercase;
+}
+.gif img{
+  width: 60%;
+  height: 30vh;
+  object-fit: cover;
+  box-shadow: 0px 2px 8px 3px #1264f4;
+}
